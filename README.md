@@ -1,5 +1,8 @@
 # lubinom
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22861532.svg)](https://doi.org/10.5281/zenodo.22861532)
+
+
 `lubinom` is an R package for the Lambert-uniform binomial distribution,
 a one-parameter model for bounded count data with support `{0, ..., n}`.
 
