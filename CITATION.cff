@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: lubinom
+version: 0.1.0
+type: software
+authors:
+  - family-names: Iriarte
+    given-names: Yuri A.
+    affiliation: "Universidad de Antofagasta"
+license: GPL-3.0
+abstract: "R package for the Lambert-uniform binomial distribution for bounded count data, including probability functions, random generation, threshold-based reliability measures, maximum likelihood estimation, goodness-of-fit assessment, and model comparison."

@@ -1,0 +1,27 @@
+Package: lubinom
+Type: Package
+Title: Lambert-Uniform Binomial Distribution for Bounded Count Data
+Version: 0.1.0
+Authors@R:
+    person(
+        given = "Yuri A.",
+        family = "Iriarte",
+        role = c("aut", "cre"),
+        email = "yuri.iriarte@uantof.cl"
+    )
+Description:
+    Provides functions for the Lambert-uniform binomial distribution
+    for modeling bounded count data. The package includes probability
+    mass, distribution, quantile, random generation, threshold-based
+    reliability measures, maximum likelihood estimation, goodness-of-fit
+    assessment, and comparison with alternative bounded-count models.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports:
+    stats
+Suggests:
+    ggplot2,
+    testthat
+Config/testthat/edition: 3
+Config/roxygen2/version: 8.1.0
