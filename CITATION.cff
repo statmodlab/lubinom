@@ -9,3 +9,5 @@ authors:
     affiliation: "Universidad de Antofagasta"
 license: GPL-3.0
 abstract: "R package for the Lambert-uniform binomial distribution for bounded count data, including probability functions, random generation, threshold-based reliability measures, maximum likelihood estimation, goodness-of-fit assessment, and model comparison."
+repository-code: "https://github.com/statmodlab/lubinom"
+url: "https://github.com/statmodlab/lubinom"

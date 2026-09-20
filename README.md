@@ -10,10 +10,11 @@ models.
 
 ## Installation
 
-The package can be installed from source using:
+The development version can be installed from GitHub using:
 
 ```r
-install.packages("lubinom_0.1.0.tar.gz", repos = NULL, type = "source")
+install.packages("remotes")
+remotes::install_github("statmodlab/lubinom")
 ```
 
 After installation:
