@@ -1,0 +1,11 @@
+citHeader("To cite lubinom in publications use:")
+
+bibentry(
+  bibtype = "Manual",
+  title = "lubinom: R Package for the Lambert-Uniform Binomial Distribution",
+  author = person("Yuri A.", "Iriarte"),
+  year = "2026",
+  note = "R package version 0.1.0",
+  doi = "10.5281/zenodo.22861532",
+  url = "https://github.com/statmodlab/lubinom"
+)

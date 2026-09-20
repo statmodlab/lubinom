@@ -98,6 +98,33 @@ file.edit(
 )
 ```
 
+
+## Repository and archived software
+
+Source code and development versions are available at:
+
+https://github.com/statmodlab/lubinom
+
+The archived software record is permanently available through Zenodo:
+
+https://doi.org/10.5281/zenodo.22861532
+
+Issues and bug reports can be submitted at:
+
+https://github.com/statmodlab/lubinom/issues
+
+## Citation
+
+If you use the `lubinom` package in scientific work, please cite:
+
+Iriarte, Y. A. (2026). *lubinom: R Package for the Lambert-Uniform Binomial Distribution*. R package version 0.1.0. https://doi.org/10.5281/zenodo.22861532
+
+The corresponding citation can also be obtained directly from R:
+
+```r
+citation("lubinom")
+```
+
 ## License
 
 This package is distributed under the GNU General Public License version 3.
